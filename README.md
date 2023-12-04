@@ -3,9 +3,9 @@
 
 ## 진행한 프로젝트
 목록<br>
-[1. drony](#1.-drony)<br>
-[2. H-moca](#2.-h-moca)<br>
-[3. BCF](#3.-bcfbee-careful)
+[1. drony](#1-drony)<br>
+[2. H-moca](#2-h-moca)<br>
+[3. BCF](#3-bcfbee-careful)
 
 ### 1. drony
 - 기간 : 2023/06/23 ~ 2023/08/07
