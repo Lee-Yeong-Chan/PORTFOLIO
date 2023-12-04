@@ -26,6 +26,7 @@
   - language : python
     - Library : selenium
   - 개발내용 : 드론판매업체 및 수리업체 크롤링
+- [링크](#https://github.com/Lee-Yeong-Chan/drony)
 <hr/>
 
 ### 2. H-moca
@@ -42,6 +43,7 @@
   - language : python
   - Library : matplotlib, tensorflow, LSTM, statsmodels.api, sklearn, graphviz, xgboost, lightgbm
   - 내용 : sklearn 비선형 모델링, xgboost, lightgbm, statsmodels.api의 모델을 각각 시계열모델링과 제품마다 높은 상관계수를 가지는 변수를 추가한 모델링해서 두 개의 모델링으로 R2스코어가 가장 높은 모델을 선정 및 예측
+- [링크](#https://github.com/Lee-Yeong-Chan/H-moca)
 <hr/>
 
 ### 3. BCF(Bee CareFul)
@@ -70,4 +72,5 @@
   - language : python
     - Library : Flask, cv2, pymysql, torch
   - 개발내용 : 노트북 카메라로 모델 연결 및 웹 사이트로 영상 출력, 영상 내 감지한 개체 박싱, 알람 시간에 따른 데이터 저장, 사진 데이터 저장
+- [링크](#https://github.com/Lee-Yeong-Chan/BCF)
 <hr/>
