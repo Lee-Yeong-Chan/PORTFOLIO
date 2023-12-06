@@ -74,3 +74,20 @@
   - 개발내용 : 노트북 카메라로 모델 연결 및 웹 사이트로 영상 출력, 영상 내 감지한 개체 박싱, 알람 시간에 따른 데이터 저장, 사진 데이터 저장
 - 링크 : [BCF](https://github.com/Lee-Yeong-Chan/BCF)
 <hr/>
+
+### 4. H-moca
+> 기간 : 2023/11/06 ~ 2023/11/28<br>
+> 유통 데이터 활용 경진대회<br>
+> 10개의 제품 데이터 분석 및 예측<br>
+> 역할 : 데이터 분석, 생수 분야 데이터 모델링 및 예측<br>
+
+- 데이터분석
+  - language : python
+  - Library : matplotlib, seaborn
+  - 내용 : 데이터 plot 및 상관계수 분석, 이상치 제거
+- 데이터 모델링 및 예측
+  - language : python
+  - Library : matplotlib, LSTM, statsmodels.api, statsmodels.tsa, Prophet, SARIMAX, ETSModel
+  - 내용 : 실제 예측을 하기 위해 시계열 데이터 모델링으로 Sarima, ETSmodel, prophet, LSTM을 이용한 예측
+- 링크 : [H-moca](https://github.com/Lee-Yeong-Chan/H-moca)
+<hr/>
